@@ -20,16 +20,7 @@ library(rnaturalearthdata)
 library(sf)
 library(viridis)
 Introduction
-The COVID-19 pandemic has been a global crisis of unprecedented scale, affecting nations worldwide in
-complex and multifaceted ways. This comprehensive analysis delves into the intricate web of data surrounding
-the pandemic, offering insights into its progression, impact, and the varied responses across different countries.
-From the stark reality of case numbers and mortality rates to the nuanced interplay of socioeconomic factors
-and public health measures, our dataset paints a vivid picture of a world grappling with an extraordinary
-challenge. By examining metrics such as total cases, vaccination rates, hospital admissions, and positive test
-percentages alongside demographic and economic indicators, we aim to uncover patterns, disparities, and
-potential correlations that can inform our understanding of the pandemic's dynamics. This presentation will
-guide you through a journey of numbers and trends, revealing the story of COVID-19 as it unfolded across
-continents, shaped by local contexts yet united in its global significance.
+
 
 # Load datasets
 country_metadata <- read_csv("C:/Users/Bikash Kumbhakar/OneDrive/Desktop/FL/July/17.07.24/country_metadata.csv")
